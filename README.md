@@ -71,7 +71,7 @@
           width="48"
           height="48"
           alt="HTML5"
-          style="padding: 8px"
+          style="padding:8px"
         />
         <br />HTML5
       </td>
@@ -81,7 +81,7 @@
           width="48"
           height="48"
           alt="css"
-          style="padding: 8px"
+          style="padding:8px"
         />
         <br />CSS
       </td>
