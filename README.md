@@ -1,5 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
+
 # Hi there! <img src="Assets/Hi.gif" width="35" />
+
 <div id="header" align="center">
   <img
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
@@ -59,6 +61,7 @@
 </p>
 
 # Languages & Framework
+
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tr>
@@ -198,7 +201,6 @@
         />
         <br />Django
       </td>
-
       <td align="center" width="96">
         <a href="#macropower-tech">
           <img
