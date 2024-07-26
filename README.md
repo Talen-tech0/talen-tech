@@ -62,7 +62,7 @@
 
 # Languages & Framework
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align-items: center">
   <table align="center">
     <tr>
       <td align="center" width="96">
@@ -318,6 +318,7 @@
           alt="icon"
           width="48"
           height="48"
+          style="background-color: #242938; border-radius: 11px"
         />
         <br />Github
       </td>
