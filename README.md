@@ -71,7 +71,7 @@
           width="48"
           height="48"
           alt="HTML5"
-          style="padding:8px;"
+          style="padding: 8px"
         />
         <br />HTML5
       </td>
@@ -81,7 +81,7 @@
           width="48"
           height="48"
           alt="css"
-          style="padding:8px;"
+          style="padding: 8px"
         />
         <br />CSS
       </td>
@@ -109,8 +109,8 @@
         <img
           src="https://techstack-generator.vercel.app/react-icon.svg"
           alt="icon"
-          width="64"
-          height="64"
+          width="48"
+          height="48"
         />
         <br />React
       </td>
@@ -160,8 +160,8 @@
         <img
           src="https://techstack-generator.vercel.app/cpp-icon.svg"
           alt="icon"
-          width="64"
-          height="64"
+          width="48"
+          height="48"
         />
         <br />C++
       </td>
@@ -169,8 +169,8 @@
         <img
           src="https://techstack-generator.vercel.app/csharp-icon.svg"
           alt="icon"
-          width="64"
-          height="64"
+          width="48"
+          height="48"
         />
         <br />C#
       </td>
@@ -178,8 +178,8 @@
         <img
           src="https://techstack-generator.vercel.app/js-icon.svg"
           alt="icon"
-          width="64"
-          height="64"
+          width="48"
+          height="48"
         />
         <br />JavaScript
       </td>
@@ -187,8 +187,8 @@
         <img
           src="https://techstack-generator.vercel.app/ts-icon.svg"
           alt="icon"
-          width="64"
-          height="64"
+          width="48"
+          height="48"
         />
         <br />TypeScript
       </td>
@@ -196,8 +196,8 @@
         <img
           src="https://techstack-generator.vercel.app/django-icon.svg"
           alt="icon"
-          width="64"
-          height="64"
+          width="48"
+          height="48"
         />
         <br />Django
       </td>
@@ -206,8 +206,8 @@
           <img
             src="https://techstack-generator.vercel.app/python-icon.svg"
             alt="icon"
-            width="64"
-            height="64"
+            width="48"
+            height="48"
           />
         </a>
         <br />Python
@@ -278,8 +278,8 @@
         <img
           src="https://techstack-generator.vercel.app/aws-icon.svg"
           alt="icon"
-          width="64"
-          height="64"
+          width="48"
+          height="48"
         />
         <br />AWS
       </td>
@@ -297,8 +297,8 @@
         <img
           src="https://techstack-generator.vercel.app/mysql-icon.svg"
           alt="icon"
-          width="64"
-          height="64"
+          width="48"
+          height="48"
         />
         <br />MySQL
       </td>
@@ -316,8 +316,8 @@
         <img
           src="https://techstack-generator.vercel.app/github-icon.svg"
           alt="icon"
-          width="64"
-          height="64"
+          width="48"
+          height="48"
         />
         <br />Github
       </td>
